@@ -48,4 +48,4 @@ def main():
         GPIO.cleanup()  # Clean up GPIO on normal exit
 
 # Uncomment the line below to run the program
-# main()
+main()
